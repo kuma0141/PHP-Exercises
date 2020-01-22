@@ -145,7 +145,7 @@ Concatenate the variables and string literals to print the statement:
 armchair: $295.44
 */
 
-echo $total;
+echo "$product : total";
 
 // task separator
 echo "<hr style=\"margin 1rem 0\">";
