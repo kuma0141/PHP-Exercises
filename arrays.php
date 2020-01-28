@@ -180,7 +180,7 @@ Print the array from task 4 in html table:
 </table>
 */
 echo
-"<table style="border:1px;">
+"<table>
   <tr>
     <th>".$food[0]."</th>
     <th>".$food_assoc["Rajma"]["type"]."</th>
